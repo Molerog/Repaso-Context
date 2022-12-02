@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.my-page{
+  margin:2rem auto;
+  width:70%;
+  padding:1rem;
+  background-color: #ccc;
+  text-align: center;
+}
+
+.dark{
+  background-color: #fff;
+  filter: invert(1);
+}
+
+.title{
+  align-items: center;
+}

@@ -1,0 +1,26 @@
+export const translations = {
+    es: {
+      headerTitle: "Mi aplicación sin context",
+      subtitle: "Mi cabecera",
+      lightTheme: "Claro",
+      darkTheme: "Oscuro",
+      greeting: "Hola invitad@",
+      welcome: "bienvenido usuari@",
+      mainText: "Este es mi contenido principal",
+      footerText: "Este es el contenido de mi footer",
+      buttonLogin: "iniciar sesión",
+      buttonLogout: "cerrar sesión",
+    },
+    en: {
+      headerTitle: "My application without context",
+      subtitle: "My header",
+      lightTheme: "Light",
+      darkTheme: "Dark",
+      greeting: "Hello guest",
+      welcome: "welcome user",
+      mainText: "This is my main content",
+      footerText: "This is my footer´s content",
+      buttonLogin: "Login",
+      buttonLogout: "Logout",
+    },
+  };
